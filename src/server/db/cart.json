@@ -1,0 +1,19 @@
+{
+	"summary": 0,
+	"goods": [
+		{
+			"id": 4,
+			"name": "Something",
+			"price": "200.00",
+			"image_url": "img/Product/Product-4.png",
+			"qty": 1
+		},
+		{
+			"id": 5,
+			"name": "Apple peole t-shirt",
+			"price": "99.90",
+			"image_url": "img/Product/Product-5.png",
+			"qty": 3
+		}
+	]
+}

@@ -1,0 +1,170 @@
+[
+	{
+		"id": 1,
+		"name": "Mango peole t-shirt",
+		"price": "39.50",
+		"image_url": "img/Product/Product-1.png",
+		"featured": "false"
+	},
+	{
+		"id": 2,
+		"name": "Another t-shirt",
+		"price": "52.00",
+		"image_url": "img/Product/Product-2.png",
+		"featured": "false"
+	},
+	{
+		"id": 3,
+		"name": "Shoes",
+		"price": "115.30",
+		"image_url": "img/Product/Product-3.png",
+		"featured": "false"
+	},
+	{
+		"id": 4,
+		"name": "Something",
+		"price": "200.00",
+		"image_url": "img/Product/Product-4.png",
+		"featured": "false"
+	},
+	{
+		"id": 5,
+		"name": "Apple peole t-shirt",
+		"price": "99.90",
+		"image_url": "img/Product/Product-5.png",
+		"featured": "false"
+	},
+	{
+		"id": 6,
+		"name": "Marc O'Polo t-shirt",
+		"price": "99.90",
+		"image_url": "img/Product/Product-6.png",
+		"featured": "false"
+	},
+	{
+		"id": 7,
+		"name": "Reebok hoody",
+		"price": "99.90",
+		"image_url": "img/Product/Product-7.png",
+		"featured": "false"
+	},
+	{
+		"id": 8,
+		"name": "New Year",
+		"price": "99.90",
+		"image_url": "img/Product/Product-8.png",
+		"featured": "false"
+	},
+	{
+		"id": 9,
+		"name": "Cristmass",
+		"price": "99.90",
+		"image_url": "img/Product/Product-9.png",
+		"featured": "false"
+	},
+	{
+		"id": 10,
+		"name": "Reebok hoody",
+		"price": "99.90",
+		"image_url": "img/Product/Product-7.png",
+		"featured": "false"
+	},
+	{
+		"id": 11,
+		"name": "New Year",
+		"price": "99.90",
+		"image_url": "img/Product/Product-8.png",
+		"featured": "false"
+	},
+	{
+		"id": 12,
+		"name": "Cristmass",
+		"price": "99.90",
+		"image_url": "img/Product/Product-9.png",
+		"featured": "false"
+	},
+	{
+		"id": 13,
+		"name": "Banana Shirt",
+		"price": "99.90",
+		"image_url": "img/Single-page/single-product-1.png",
+		"featured": "false"
+	},
+	{
+		"id": 14,
+		"name": "Mango T-shirt",
+		"price": "99.90",
+		"image_url": "img/Single-page/single-product-2.png",
+		"featured": "false"
+	},
+	{
+		"id": 15,
+		"name": "Apple shoes",
+		"price": "99.90",
+		"image_url": "img/Single-page/single-product-3.png",
+		"featured": "false"
+	},
+	{
+		"id": 16,
+		"name": "Lemon trousers",
+		"price": "99.90",
+		"image_url": "img/Single-page/single-product-4.png",
+		"featured": "false"
+	},
+	{
+		"id": 91,
+		"name": "Mango peole t-shirt",
+		"price": "39.50",
+		"image_url": "img/Featured_item_1.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 92,
+		"name": "Another t-shirt",
+		"price": "52.00",
+		"image_url": "img/Featured_item_2.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 93,
+		"name": "Shoes",
+		"price": "115.30",
+		"image_url": "img/Featured_item_3.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 94,
+		"name": "Something",
+		"price": "200.00",
+		"image_url": "img/Featured_item_4.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 95,
+		"name": "Apple peole t-shirt",
+		"price": "99.90",
+		"image_url": "img/Featured_item_5.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 96,
+		"name": "Marc O'Polo t-shirt",
+		"price": "99.90",
+		"image_url": "img/Featured_item_6.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 97,
+		"name": "Reebok hoody",
+		"price": "99.90",
+		"image_url": "img/Featured_item_7.jpeg",
+		"featured": "true"
+	},
+	{
+		"id": 98,
+		"name": "New Year",
+		"price": "99.90",
+		"image_url": "img/Featured_item_8.jpeg",
+		"featured": "true"
+	}
+]

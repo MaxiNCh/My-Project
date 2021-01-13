@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>BRAND shop</title>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/a03bfa2223.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+	<div id="app">
+		<headercomp @del-from-cart="delFromCart" :cart="cart"></headercomp>
+		<navComp></navComp>
+		<bodyComp :cart="cart" :products="products" :featured="featured" @del-from-cart="delFromCart" v-on:update-cart="updateCart" @add-to-cart="addToCart"></bodyComp>
+		<footerComp></footerComp>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js"></script>
+	<script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+</body>
+
+</html>
